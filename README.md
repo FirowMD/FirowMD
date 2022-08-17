@@ -1,11 +1,10 @@
-## Firow ~(the) Malware Developer~
+# Firow
 
-### About me:
-#### Programming languages
+## Programming languages
 [![My Skills](https://skillicons.dev/icons?i=c,v,lua,py,js,go,rust)](https://github.com/FirowMD)
 
-#### Text editors
+## Text editors
 [![My Skills](https://skillicons.dev/icons?i=vscode,neovim)](https://github.com/FirowMD)
 
-#### Game engines
+## Game engines
 [![My Skills](https://skillicons.dev/icons?i=godot,gamemakerstudio)](https://github.com/FirowMD)
