@@ -1,7 +1,7 @@
 # Firow
 
-![Alt Text](https://comb.io/c17Z7q.gif)
-![Alt Text](https://imgur.com/a/Gp3N63J)
+![Rick n Morty](https://comb.io/c17Z7q.gif)  
+![Chris Tucker](https://imgur.com/a/fIC51sE)
 
 ## Programming languages
 [![My Skills](https://skillicons.dev/icons?i=c,v,lua,py,js,go,rust)](https://github.com/FirowMD)
